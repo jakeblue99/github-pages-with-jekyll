@@ -3,7 +3,7 @@ theme: minima
 author: Jake Blue
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
- To be continued...
+ Jake's practise blog.
 
 # social links
 twitter_username: jakebluereal # DO NOT include the @ character, or else the build will fail!
